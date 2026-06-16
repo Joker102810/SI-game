@@ -4,8 +4,8 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     private float horizontal;
-    private float speed = 8f;
-    private float jumpingPower = 7f;
+    public float speed = 8f;
+    public float jumpingPower = 4f;
     private bool isFacingRight = true;
    
 
@@ -15,7 +15,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        horizontal = Input.GetAxisRaw("Horizontal");
+       
 
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {
@@ -25,11 +25,17 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetButtonUp("Jump") && rb.linearVelocity.y > 0f)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
+            ;
+
         }
+
+
 
         Flip();
     }
 
+
+   
     private void FixedUpdate()
     {
         rb.linearVelocity = new Vector2(horizontal * speed, rb.linearVelocity.y);
@@ -37,7 +43,7 @@ public class PlayerMovement : MonoBehaviour
 
     private bool IsGrounded()
     {
-        return Physics2D.OverlapCircle(groundCheck.position, 1.2f, groundLayer);
+        return Physics2D.OverlapCircle(groundCheck.position, 1f, groundLayer);
     }
 
     private void Flip()
