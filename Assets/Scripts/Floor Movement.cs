@@ -6,33 +6,43 @@ using UnityEngine.InputSystem.XR;
 public class FloorMovement : MonoBehaviour
 {
     [SerializeField] GameObject[] waypoints;
-    int currentWaypointIndex = 0;
+    //int currentWaypointIndex = 0;
 
     [SerializeField] GameObject CD;
     CDetection controller;
 
-    [SerializeField] float speed = 1f;
+    [SerializeField] float speed;
+
+    bool hasArrived = false;
+    public bool move = false;
 
     private void Start()
     {
-        CDetection controller = CD.GetComponent<CDetection>();
+
+        //Debug.Log(CD);
+        
+        controller = CD.GetComponent<CDetection>();
 
     }
 
     void Update()
     {
-        if (controller.colliding == true)
+        if (controller.colliding)
         {
-            if (Vector2.Distance(transform.position, waypoints[currentWaypointIndex].transform.position) < .1f)
-            {
-                currentWaypointIndex++;
-                if (currentWaypointIndex >= waypoints.Length)
-                {
-                    currentWaypointIndex = 0;
-                }
-            }
+            move = true;
         }
 
-        transform.position = Vector2.MoveTowards(transform.position, waypoints[currentWaypointIndex].transform.position, speed * Time.deltaTime);
+        if (!hasArrived && move == true)
+        {
+            transform.position = Vector2.MoveTowards(transform.position, waypoints[1].transform.position, speed * Time.deltaTime);
+
+            if (Vector2.Distance(transform.position, waypoints[1].transform.position) < 0.1f)
+            {
+                hasArrived = true;
+                move = false;
+
+                // Next action here
+            }
+        }
     }
 }
