@@ -4,10 +4,13 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     private float horizontal;
-    public float speed = 8f;
+    public float speed = 5f;
     public float jumpingPower = 4f;
     private bool isFacingRight = true;
-   
+    public float acceleration = 20f;
+    public float deceleration = 10f;
+    public float torqueForce = 10f;
+
 
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Transform groundCheck;
@@ -15,7 +18,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-       
+        horizontal = Input.GetAxisRaw("Horizontal");
 
         if (Input.GetButtonDown("Jump") && IsGrounded())
         {
@@ -35,11 +38,29 @@ public class PlayerMovement : MonoBehaviour
     }
 
 
-   
     private void FixedUpdate()
     {
-        rb.linearVelocity = new Vector2(horizontal * speed, rb.linearVelocity.y);
+
+        rb.AddTorque(-horizontal * torqueForce);
+        float targetSpeed = horizontal * speed;
+        float speedDifference = targetSpeed - rb.linearVelocity.x;
+
+        float accelRate = Mathf.Abs(targetSpeed) > 0.01f
+            ? acceleration
+            : deceleration;
+
+        float movement = speedDifference * accelRate;
+
+        rb.AddForce(Vector2.right * movement);
+
+        // Clamp max speed
+        rb.linearVelocity = new Vector2(
+            Mathf.Clamp(rb.linearVelocity.x, -speed, speed),
+            rb.linearVelocity.y
+        );
     }
+
+
 
     private bool IsGrounded()
     {
