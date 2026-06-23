@@ -171,6 +171,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Collision Detection (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3338842920300482683, guid: 744f07d49e0887a44898a300b71ff511, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -188,6 +192,10 @@ PrefabInstance:
       propertyPath: CD
       value: 
       objectReference: {fileID: 1992810266}
+    - target: {fileID: 2817740758483579449, guid: ca620e264233b764ca06d21a9c8aec33, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2817740758483579449, guid: ca620e264233b764ca06d21a9c8aec33, type: 3}
       propertyPath: 'waypoints.Array.data[0]'
       value: 
@@ -252,6 +260,10 @@ PrefabInstance:
       propertyPath: m_Material
       value: 
       objectReference: {fileID: 6200000, guid: 619d25243bda9804183b582861e69bb8, type: 2}
+    - target: {fileID: 9124430135447477693, guid: ca620e264233b764ca06d21a9c8aec33, type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -1310,6 +1322,10 @@ PrefabInstance:
     - target: {fileID: 3338842920300482683, guid: 744f07d49e0887a44898a300b71ff511, type: 3}
       propertyPath: m_Name
       value: Collision Detection
+      objectReference: {fileID: 0}
+    - target: {fileID: 3338842920300482683, guid: 744f07d49e0887a44898a300b71ff511, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2651,8 +2667,8 @@ Transform:
   m_GameObject: {fileID: 1924093447}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.3395, y: -4.2648, z: 0}
-  m_LocalScale: {x: 2.5181413, y: 2.590361, z: 1}
+  m_LocalPosition: {x: 6.842, y: -4.2648, z: 0}
+  m_LocalScale: {x: 1.513151, y: 2.590361, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
