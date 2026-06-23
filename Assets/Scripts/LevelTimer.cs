@@ -11,17 +11,21 @@ public class LevelTimer : MonoBehaviour
 
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.R))
+        {
+            RestartLevel();
+        }
+
         if (checkpointReached)
             return;
 
         timeLimit -= Time.deltaTime;
 
-        // Update the timer display
-        timerText.text = Mathf.CeilToInt(timeLimit).ToString();
+        timerText.text = timeLimit.ToString("F3");
 
         if (timeLimit <= 0)
         {
-            timerText.text = "0";
+            timerText.text = "0.000";
             RestartLevel();
         }
     }
