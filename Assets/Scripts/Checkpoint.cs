@@ -4,17 +4,15 @@ using System.Collections;
 
 public class Checkpoint : MonoBehaviour
 {
-    private void OnTriggerEnter(Collider other)
+
+    [SerializeField] private LevelTimer timer;
+
+    private void OnCollisionEnter(UnityEngine.Collision collision)
     {
-        if (other.CompareTag("Player"))
+        if (CompareTag("Player"))
         {
-            LevelTimer timer = Object.FindAnyObjectByType<LevelTimer>();
-
-            if (timer != null)
-            {
-                timer.ReachCheckpoint();
-            }
-
+            Debug.Log("Checkpoint reached");
+            timer.ReachCheckpoint();
             StartCoroutine(LoadNextScene());
         }
     }
@@ -22,8 +20,7 @@ public class Checkpoint : MonoBehaviour
     IEnumerator LoadNextScene()
     {
         yield return new WaitForSeconds(2f);
-        SceneManager.LoadScene(
-            SceneManager.GetActiveScene().buildIndex + 1
-        );
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        
     }
-}
+}   

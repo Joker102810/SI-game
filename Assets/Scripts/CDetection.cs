@@ -21,14 +21,14 @@ public class CDetection : MonoBehaviour
     {
         colliding = true;
     }
-    /*
+    
     private void OnTriggerExit2D(Collider2D collision)
     {
         colliding = false;
     }
-    */
+    
     private void Update()
     {
-        Debug.Log(colliding);
+        
     }
 }
