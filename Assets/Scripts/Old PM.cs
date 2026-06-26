@@ -48,7 +48,7 @@ public class OldPM : MonoBehaviour
 
     private bool IsGrounded()
     {
-        return Physics2D.OverlapCircle(groundCheck.position, 1f, groundLayer);
+        return Physics2D.OverlapCircle(groundCheck.position, .5f, groundLayer);
     }
 
     private void Flip()
