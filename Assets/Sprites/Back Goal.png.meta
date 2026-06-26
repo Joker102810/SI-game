@@ -1,0 +1,2834 @@
+fileFormatVersion: 2
+guid: fa3d34b43fbaa674c9a96e19c6eeedee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7079531865395916870
+    second: Back Goal_0
+  - first:
+      213: 6310666670516598359
+    second: Back Goal_1
+  - first:
+      213: 335618280747553166
+    second: Back Goal_2
+  - first:
+      213: -3041330504926028787
+    second: Back Goal_3
+  - first:
+      213: 3320803918040957258
+    second: Back Goal_4
+  - first:
+      213: 2340824182000747325
+    second: Back Goal_5
+  - first:
+      213: -2266443519161710144
+    second: Back Goal_6
+  - first:
+      213: 823605619510321223
+    second: Back Goal_7
+  - first:
+      213: -6916032519173791324
+    second: Back Goal_8
+  - first:
+      213: -760006890747432128
+    second: Back Goal_9
+  - first:
+      213: 3498646761704967538
+    second: Back Goal_10
+  - first:
+      213: -3801197253589081942
+    second: Back Goal_11
+  - first:
+      213: -743219987280308248
+    second: Back Goal_12
+  - first:
+      213: -4112692989347372852
+    second: Back Goal_13
+  - first:
+      213: 7201513286503808333
+    second: Back Goal_14
+  - first:
+      213: 3270179596183963328
+    second: Back Goal_15
+  - first:
+      213: 8139721577301044062
+    second: Back Goal_16
+  - first:
+      213: 7913098736296026097
+    second: Back Goal_17
+  - first:
+      213: 3524452560241062973
+    second: Back Goal_18
+  - first:
+      213: 7654568657829976771
+    second: Back Goal_19
+  - first:
+      213: 6890779034188781830
+    second: Back Goal_20
+  - first:
+      213: -5591976931443002657
+    second: Back Goal_21
+  - first:
+      213: -3727643024255539564
+    second: Back Goal_22
+  - first:
+      213: -3150011996572479151
+    second: Back Goal_23
+  - first:
+      213: -385471224925633920
+    second: Back Goal_24
+  - first:
+      213: -3283873107689238583
+    second: Back Goal_25
+  - first:
+      213: 3223104665276877940
+    second: Back Goal_26
+  - first:
+      213: 5955025456556076974
+    second: Back Goal_27
+  - first:
+      213: 3703274910440825100
+    second: Back Goal_28
+  - first:
+      213: 3938719606615607536
+    second: Back Goal_29
+  - first:
+      213: -5856591619757331032
+    second: Back Goal_30
+  - first:
+      213: 7860643592676768240
+    second: Back Goal_31
+  - first:
+      213: -3066179456123631508
+    second: Back Goal_32
+  - first:
+      213: 1517470675070152005
+    second: Back Goal_33
+  - first:
+      213: -6607547311198671086
+    second: Back Goal_34
+  - first:
+      213: -7918930823998778113
+    second: Back Goal_35
+  - first:
+      213: -3380728074098797937
+    second: Back Goal_36
+  - first:
+      213: -7618278341502242413
+    second: Back Goal_37
+  - first:
+      213: -8902458976592355851
+    second: Back Goal_38
+  - first:
+      213: 1076987684345870761
+    second: Back Goal_39
+  - first:
+      213: -6224420296245836537
+    second: Back Goal_40
+  - first:
+      213: -4610779851421692014
+    second: Back Goal_41
+  - first:
+      213: -319857096532919733
+    second: Back Goal_42
+  - first:
+      213: -9097453509721572404
+    second: Back Goal_43
+  - first:
+      213: 7487221286501595227
+    second: Back Goal_44
+  - first:
+      213: -7381162942469899687
+    second: Back Goal_45
+  - first:
+      213: 2637422921661936837
+    second: Back Goal_46
+  - first:
+      213: 6640476129231832306
+    second: Back Goal_47
+  - first:
+      213: 4079973127345310071
+    second: Back Goal_48
+  - first:
+      213: 6645757887167713035
+    second: Back Goal_49
+  - first:
+      213: 290052830073165861
+    second: Back Goal_50
+  - first:
+      213: -6531969975521440917
+    second: Back Goal_51
+  - first:
+      213: 6492267815968212732
+    second: Back Goal_52
+  - first:
+      213: 2938204760473234401
+    second: Back Goal_53
+  - first:
+      213: -7660610221353342624
+    second: Back Goal_54
+  - first:
+      213: 3954091591034559677
+    second: Back Goal_55
+  - first:
+      213: -1290062875506720850
+    second: Back Goal_56
+  - first:
+      213: -5693416094755351076
+    second: Back Goal_57
+  - first:
+      213: 5207110924826767777
+    second: Back Goal_58
+  - first:
+      213: 6252211498640475186
+    second: Back Goal_59
+  - first:
+      213: 7046571205174583060
+    second: Back Goal_60
+  - first:
+      213: -1986516378215585093
+    second: Back Goal_61
+  - first:
+      213: -5918127364703287653
+    second: Back Goal_62
+  - first:
+      213: -8056554134240212057
+    second: Back Goal_63
+  - first:
+      213: 3416216907488191697
+    second: Back Goal_64
+  - first:
+      213: -6583542140222171394
+    second: Back Goal_65
+  - first:
+      213: 8469641833657528651
+    second: Back Goal_66
+  - first:
+      213: 5081079764459511451
+    second: Back Goal_67
+  - first:
+      213: 4245469594836305019
+    second: Back Goal_68
+  - first:
+      213: 6186862409066522159
+    second: Back Goal_69
+  - first:
+      213: 1836210761776355476
+    second: Back Goal_70
+  - first:
+      213: -9139234913419317357
+    second: Back Goal_71
+  - first:
+      213: -4696285959230710041
+    second: Back Goal_72
+  - first:
+      213: 6408607534309417519
+    second: Back Goal_73
+  - first:
+      213: -7668026928754673172
+    second: Back Goal_74
+  - first:
+      213: -6514254616747981962
+    second: Back Goal_75
+  - first:
+      213: 8686596077680758543
+    second: Back Goal_76
+  - first:
+      213: -4046247901008208880
+    second: Back Goal_77
+  - first:
+      213: 3999460356952506547
+    second: Back Goal_78
+  - first:
+      213: -8920508193864862016
+    second: Back Goal_79
+  - first:
+      213: 7199131453915437002
+    second: Back Goal_80
+  - first:
+      213: -8065847673866816236
+    second: Back Goal_81
+  - first:
+      213: -5416616362563104073
+    second: Back Goal_82
+  - first:
+      213: -493391852972149807
+    second: Back Goal_83
+  - first:
+      213: 7392791974394489834
+    second: Back Goal_84
+  - first:
+      213: 8330745212815521467
+    second: Back Goal_85
+  - first:
+      213: 508687526503346603
+    second: Back Goal_86
+  - first:
+      213: -4851625024721060178
+    second: Back Goal_87
+  - first:
+      213: 5992288604463293296
+    second: Back Goal_88
+  - first:
+      213: -3695069446995956666
+    second: Back Goal_89
+  - first:
+      213: 5636135647746258671
+    second: Back Goal_90
+  - first:
+      213: -4026153887256503708
+    second: Back Goal_91
+  - first:
+      213: 6860711731255367516
+    second: Back Goal_92
+  - first:
+      213: -6137950202495352300
+    second: Back Goal_93
+  - first:
+      213: 3121984723737681672
+    second: Back Goal_94
+  - first:
+      213: 8219807905393285376
+    second: Back Goal_95
+  - first:
+      213: 3920872794776757111
+    second: Back Goal_96
+  - first:
+      213: 5395370366650245869
+    second: Back Goal_97
+  - first:
+      213: -4220676493739905619
+    second: Back Goal_98
+  - first:
+      213: -5901718890414844117
+    second: Back Goal_99
+  - first:
+      213: -2411804860012544841
+    second: Back Goal_100
+  - first:
+      213: 7898116854741144074
+    second: Back Goal_101
+  - first:
+      213: -2215287288000249153
+    second: Back Goal_102
+  - first:
+      213: -8705058486849020306
+    second: Back Goal_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Back Goal_0
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1649
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6407bfcf8bc8f3260800000000000000
+      internalID: 7079531865395916870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1649
+        width: 132
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756f908c6edf39750800000000000000
+      internalID: 6310666670516598359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_2
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1649
+        width: 152
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81d5145c0b58a400800000000000000
+      internalID: 335618280747553166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_3
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1649
+        width: 152
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c1359f4060bc5d0800000000000000
+      internalID: -3041330504926028787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_4
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1649
+        width: 152
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a418e8fa19dd51e20800000000000000
+      internalID: 3320803918040957258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_5
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1649
+        width: 152
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d338cc9f0374c7020800000000000000
+      internalID: 2340824182000747325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_6
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1649
+        width: 132
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c941e0a0a9fb80e0800000000000000
+      internalID: -2266443519161710144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1489
+        width: 62
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740ade182f80e6b00800000000000000
+      internalID: 823605619510321223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1489
+        width: 132
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1a89701115500a0800000000000000
+      internalID: -6916032519173791324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_9
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1489
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043762272c9e375f0800000000000000
+      internalID: -760006890747432128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_10
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1489
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dcef171b0bd8030800000000000000
+      internalID: 3498646761704967538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_11
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1489
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0e1aacc3f6f3bc0800000000000000
+      internalID: -3801197253589081942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_12
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1489
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7df2cfb5d8fa5f0800000000000000
+      internalID: -743219987280308248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_13
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1489
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0e5b32487cce6c0800000000000000
+      internalID: -4112692989347372852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_14
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1579
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4db057cd2ae0f360800000000000000
+      internalID: 7201513286503808333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_15
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1489
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6864e3403026d20800000000000000
+      internalID: 3270179596183963328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_16
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1489
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b6c9106a916f070800000000000000
+      internalID: 8139721577301044062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_17
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1329
+        width: 32
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff54811069f0dd60800000000000000
+      internalID: 7913098736296026097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_18
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1329
+        width: 132
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3472e02eee59e030800000000000000
+      internalID: 3524452560241062973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_19
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1329
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca5bce73ad7a3a60800000000000000
+      internalID: 7654568657829976771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_20
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1329
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609188ec507f0af50800000000000000
+      internalID: 6890779034188781830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_21
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1329
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd23921cb9e4562b0800000000000000
+      internalID: -5591976931443002657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_22
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1329
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49629c95b60c44cc0800000000000000
+      internalID: -3727643024255539564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_23
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1329
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151141257c8e844d0800000000000000
+      internalID: -3150011996572479151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_24
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1329
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0824c2796f786aaf0800000000000000
+      internalID: -385471224925633920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1169
+        width: 32
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf89b8aec65d62d0800000000000000
+      internalID: -3283873107689238583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_26
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1169
+        width: 132
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c8bb7cd94cabc20800000000000000
+      internalID: 3223104665276877940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_27
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1169
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafee660a1084a250800000000000000
+      internalID: 5955025456556076974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_28
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1169
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01217609eca46330800000000000000
+      internalID: 3703274910440825100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_29
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1169
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8803e2d9429a630800000000000000
+      internalID: 3938719606615607536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_30
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1169
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ada5dd83f439bea0800000000000000
+      internalID: -5856591619757331032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_31
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1169
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9f27733bd961d60800000000000000
+      internalID: 7860643592676768240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_32
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1169
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68862ca70eb275d0800000000000000
+      internalID: -3066179456123631508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_33
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1169
+        width: 112
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54de0a00a832f0510800000000000000
+      internalID: 1517470675070152005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1009
+        width: 32
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f6a6f8ab64d44a0800000000000000
+      internalID: -6607547311198671086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_35
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1009
+        width: 132
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff459a23f5e4a1290800000000000000
+      internalID: -7918930823998778113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_36
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1009
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82962d7abd3511d0800000000000000
+      internalID: -3380728074098797937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_37
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1009
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391f4b63630764690800000000000000
+      internalID: -7618278341502242413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_38
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1009
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd99b06abc147480800000000000000
+      internalID: -8902458976592355851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_39
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1009
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9f7e0c79a32fe00800000000000000
+      internalID: 1076987684345870761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_40
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1009
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705098d08ba6e99a0800000000000000
+      internalID: -6224420296245836537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_41
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1009
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f4b7277283300c0800000000000000
+      internalID: -4610779851421692014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_42
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1009
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a74465aa3af8bf0800000000000000
+      internalID: -319857096532919733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_43
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1059
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb3a68bb3a5fb180800000000000000
+      internalID: -9097453509721572404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_44
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1009
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58bba05714f7e760800000000000000
+      internalID: 7487221286501595227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_45
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 849
+        width: 32
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95afdc03967d09990800000000000000
+      internalID: -7381162942469899687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_46
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 849
+        width: 132
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4f1207c220a9420800000000000000
+      internalID: 2637422921661936837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_47
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 849
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f403565bd5b72c50800000000000000
+      internalID: 6640476129231832306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_48
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 849
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7798e8451f9fe9830800000000000000
+      internalID: 4079973127345310071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_49
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 849
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fc1ef66997a3c50800000000000000
+      internalID: 6645757887167713035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_50
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 849
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5289b9e1389760400800000000000000
+      internalID: 290052830073165861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_51
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 849
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b07854ae7c955a0800000000000000
+      internalID: -6531969975521440917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_52
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 849
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf68c7d5e2b291a50800000000000000
+      internalID: 6492267815968212732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_53
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 849
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb6e5199a996c820800000000000000
+      internalID: 2938204760473234401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_54
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 849
+        width: 132
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069e181679b00b590800000000000000
+      internalID: -7660610221353342624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_55
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 689
+        width: 32
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc59f43a51cfd630800000000000000
+      internalID: 3954091591034559677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_56
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 689
+        width: 132
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafb08756a6c81ee0800000000000000
+      internalID: -1290062875506720850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_57
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 689
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd59d911a3cecf0b0800000000000000
+      internalID: -5693416094755351076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_58
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 689
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1fa543ccf534840800000000000000
+      internalID: 5207110924826767777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_59
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 689
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234041d7b3154c650800000000000000
+      internalID: 6252211498640475186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_60
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 689
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f5de04d237ac160800000000000000
+      internalID: 7046571205174583060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_61
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 689
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbae6f701e97e64e0800000000000000
+      internalID: -1986516378215585093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_62
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 689
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96875374869edda0800000000000000
+      internalID: -5918127364703287653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_63
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 689
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab48ea43be513090800000000000000
+      internalID: -8056554134240212057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_64
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 689
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4648e6d27d86f20800000000000000
+      internalID: 3416216907488191697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_65
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 819
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef61e38fd4f82a4a0800000000000000
+      internalID: -6583542140222171394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_66
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 689
+        width: 82
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41f1f5af563a8570800000000000000
+      internalID: 8469641833657528651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_67
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 529
+        width: 32
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ed804002f938640800000000000000
+      internalID: 5081079764459511451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_68
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 529
+        width: 132
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7480f06a10faea30800000000000000
+      internalID: 4245469594836305019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_69
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 529
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26a0a6e4962cd550800000000000000
+      internalID: 6186862409066522159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_70
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 529
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498dd6c85f78b7910800000000000000
+      internalID: 1836210761776355476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_71
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 529
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f2bca944aea2180800000000000000
+      internalID: -9139234913419317357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_72
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 529
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee16645dc073deb0800000000000000
+      internalID: -4696285959230710041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_73
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 529
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22a7632992ffe850800000000000000
+      internalID: 6408607534309417519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_74
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 529
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9b27f9222b59590800000000000000
+      internalID: -7668026928754673172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_75
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 529
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673c948a0f7b895a0800000000000000
+      internalID: -6514254616747981962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_76
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 529
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f867deb1dfc8870800000000000000
+      internalID: 8686596077680758543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_77
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 529
+        width: 142
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c5c33d8f6d8d7c0800000000000000
+      internalID: -4046247901008208880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_78
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 529
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0496d2100f08730800000000000000
+      internalID: 3999460356952506547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_79
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 369
+        width: 32
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c639b08f0df33480800000000000000
+      internalID: -8920508193864862016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_80
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 369
+        width: 132
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac798f92ae378e360800000000000000
+      internalID: 7199131453915437002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_81
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 369
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415f1ca764a501090800000000000000
+      internalID: -8065847673866816236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_82
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 369
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b29bd0ed1054d4b0800000000000000
+      internalID: -5416616362563104073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_83
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 369
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3f58c49be1729f0800000000000000
+      internalID: -493391852972149807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_84
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 369
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb642cc129789660800000000000000
+      internalID: 7392791974394489834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_85
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 369
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6b72402a0cc9370800000000000000
+      internalID: 8330745212815521467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_86
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 369
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba177e63c983f0700800000000000000
+      internalID: 508687526503346603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_87
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 369
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaefa1abeb09bacb0800000000000000
+      internalID: -4851625024721060178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_88
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 369
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073e7acbcb2e82350800000000000000
+      internalID: 5992288604463293296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_89
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 369
+        width: 262
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c286f4ae978bcc0800000000000000
+      internalID: -3695069446995956666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_90
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 299
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6f4d59283973e40800000000000000
+      internalID: 5636135647746258671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_91
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 299
+        width: 132
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a940bfe5a3028c0800000000000000
+      internalID: -4026153887256503708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_92
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 319
+        width: 152
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57d4df48f4263f50800000000000000
+      internalID: 6860711731255367516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_93
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 319
+        width: 152
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4124a33afce91daa0800000000000000
+      internalID: -6137950202495352300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_94
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 319
+        width: 152
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f9494b094835b20800000000000000
+      internalID: 3121984723737681672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_95
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 319
+        width: 152
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0091ae25dbf921270800000000000000
+      internalID: 8219807905393285376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_96
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 319
+        width: 152
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773692e780db96630800000000000000
+      internalID: 3920872794776757111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_97
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 319
+        width: 152
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de26bd733c430ea40800000000000000
+      internalID: 5395370366650245869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_98
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 319
+        width: 152
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadaace47152d65c0800000000000000
+      internalID: -4220676493739905619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_99
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 319
+        width: 152
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b275c9410f1e81ea0800000000000000
+      internalID: -5901718890414844117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_100
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 319
+        width: 152
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc3463124c878ed0800000000000000
+      internalID: -2411804860012544841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_101
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 229
+        width: 142
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a021f51fe6fbb9d60800000000000000
+      internalID: 7898116854741144074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_102
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 209
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb28e4bd2f7b141e0800000000000000
+      internalID: -2215287288000249153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Back Goal_103
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 179
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e5d567d6b613780800000000000000
+      internalID: -8705058486849020306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Back Goal_0: 7079531865395916870
+      Back Goal_1: 6310666670516598359
+      Back Goal_10: 3498646761704967538
+      Back Goal_100: -2411804860012544841
+      Back Goal_101: 7898116854741144074
+      Back Goal_102: -2215287288000249153
+      Back Goal_103: -8705058486849020306
+      Back Goal_11: -3801197253589081942
+      Back Goal_12: -743219987280308248
+      Back Goal_13: -4112692989347372852
+      Back Goal_14: 7201513286503808333
+      Back Goal_15: 3270179596183963328
+      Back Goal_16: 8139721577301044062
+      Back Goal_17: 7913098736296026097
+      Back Goal_18: 3524452560241062973
+      Back Goal_19: 7654568657829976771
+      Back Goal_2: 335618280747553166
+      Back Goal_20: 6890779034188781830
+      Back Goal_21: -5591976931443002657
+      Back Goal_22: -3727643024255539564
+      Back Goal_23: -3150011996572479151
+      Back Goal_24: -385471224925633920
+      Back Goal_25: -3283873107689238583
+      Back Goal_26: 3223104665276877940
+      Back Goal_27: 5955025456556076974
+      Back Goal_28: 3703274910440825100
+      Back Goal_29: 3938719606615607536
+      Back Goal_3: -3041330504926028787
+      Back Goal_30: -5856591619757331032
+      Back Goal_31: 7860643592676768240
+      Back Goal_32: -3066179456123631508
+      Back Goal_33: 1517470675070152005
+      Back Goal_34: -6607547311198671086
+      Back Goal_35: -7918930823998778113
+      Back Goal_36: -3380728074098797937
+      Back Goal_37: -7618278341502242413
+      Back Goal_38: -8902458976592355851
+      Back Goal_39: 1076987684345870761
+      Back Goal_4: 3320803918040957258
+      Back Goal_40: -6224420296245836537
+      Back Goal_41: -4610779851421692014
+      Back Goal_42: -319857096532919733
+      Back Goal_43: -9097453509721572404
+      Back Goal_44: 7487221286501595227
+      Back Goal_45: -7381162942469899687
+      Back Goal_46: 2637422921661936837
+      Back Goal_47: 6640476129231832306
+      Back Goal_48: 4079973127345310071
+      Back Goal_49: 6645757887167713035
+      Back Goal_5: 2340824182000747325
+      Back Goal_50: 290052830073165861
+      Back Goal_51: -6531969975521440917
+      Back Goal_52: 6492267815968212732
+      Back Goal_53: 2938204760473234401
+      Back Goal_54: -7660610221353342624
+      Back Goal_55: 3954091591034559677
+      Back Goal_56: -1290062875506720850
+      Back Goal_57: -5693416094755351076
+      Back Goal_58: 5207110924826767777
+      Back Goal_59: 6252211498640475186
+      Back Goal_6: -2266443519161710144
+      Back Goal_60: 7046571205174583060
+      Back Goal_61: -1986516378215585093
+      Back Goal_62: -5918127364703287653
+      Back Goal_63: -8056554134240212057
+      Back Goal_64: 3416216907488191697
+      Back Goal_65: -6583542140222171394
+      Back Goal_66: 8469641833657528651
+      Back Goal_67: 5081079764459511451
+      Back Goal_68: 4245469594836305019
+      Back Goal_69: 6186862409066522159
+      Back Goal_7: 823605619510321223
+      Back Goal_70: 1836210761776355476
+      Back Goal_71: -9139234913419317357
+      Back Goal_72: -4696285959230710041
+      Back Goal_73: 6408607534309417519
+      Back Goal_74: -7668026928754673172
+      Back Goal_75: -6514254616747981962
+      Back Goal_76: 8686596077680758543
+      Back Goal_77: -4046247901008208880
+      Back Goal_78: 3999460356952506547
+      Back Goal_79: -8920508193864862016
+      Back Goal_8: -6916032519173791324
+      Back Goal_80: 7199131453915437002
+      Back Goal_81: -8065847673866816236
+      Back Goal_82: -5416616362563104073
+      Back Goal_83: -493391852972149807
+      Back Goal_84: 7392791974394489834
+      Back Goal_85: 8330745212815521467
+      Back Goal_86: 508687526503346603
+      Back Goal_87: -4851625024721060178
+      Back Goal_88: 5992288604463293296
+      Back Goal_89: -3695069446995956666
+      Back Goal_9: -760006890747432128
+      Back Goal_90: 5636135647746258671
+      Back Goal_91: -4026153887256503708
+      Back Goal_92: 6860711731255367516
+      Back Goal_93: -6137950202495352300
+      Back Goal_94: 3121984723737681672
+      Back Goal_95: 8219807905393285376
+      Back Goal_96: 3920872794776757111
+      Back Goal_97: 5395370366650245869
+      Back Goal_98: -4220676493739905619
+      Back Goal_99: -5901718890414844117
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
